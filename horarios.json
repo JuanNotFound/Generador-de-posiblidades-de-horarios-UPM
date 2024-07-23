@@ -1,0 +1,127 @@
+[
+    {
+        "name":"AqC",
+        "code":"IWSIM21",
+        "days": ["Jueves", "Viernes"],
+        "startTime":[11,9]
+    },
+    {
+        "name":"AqC",
+        "code":"IWSIM22",
+        "days": ["Miercoles", "Viernes"],
+        "startTime":[11,11]
+    },
+    {
+        "name":"AqC",
+        "code":"IWSIT21",
+        "days": ["Martes", "Jueves"],
+        "startTime":[19,17]
+    },
+    {
+        "name":"AqC",
+        "code":"IWSIT22",
+        "days": ["Miercoles", "Jueves"],
+        "startTime":[17,19]
+    },
+    {
+        "name":"IRM",
+        "code":"IWM31",
+        "days": ["Martes", "Miercoles"],
+        "startTime":[11,9]
+    },
+    {
+        "name":"IRM",
+        "code":"IWT31",
+        "days": ["Martes", "Miercoles"],
+        "startTime":[17,19]
+    },
+    {
+        "name":"IRM",
+        "code":"IWM32",
+        "days": ["Martes", "Miercoles"],
+        "startTime":[9,11]
+    },
+
+    {
+        "name":"SyO",
+        "code":"IWM31",
+        "days": ["Martes", "Viernes"],
+        "startTime":[9,9]
+    },
+    {
+        "name":"SyO",
+        "code":"IWT31",
+        "days": ["Lunes", "Martes"],
+        "startTime":[17,19]
+    },
+    {
+        "name":"SyO",
+        "code":"IWM32",
+        "days": ["Martes", "Viernes"],
+        "startTime":[11,11]
+    },
+
+    {
+        "name":"IPS",
+        "code":"IWM31",
+        "days": ["Miercoles", "Jueves"],
+        "startTime":[11,11]
+    },
+    {
+        "name":"IPS",
+        "code":"IWT31",
+        "days": ["Miercoles", "Jueves"],
+        "startTime":[17,15]
+    },
+    {
+        "name":"IPS",
+        "code":"IWM32",
+        "days": ["Miercoles", "Jueves"],
+        "startTime":[9,9]
+    },
+    {
+        "name":"RCo",
+        "code":"IWM31",
+        "days": ["Miercoles", "Jueves"],
+        "startTime":[9,9]
+    },
+    {
+        "name":"RCo",
+        "code":"IWT31",
+        "days": ["Lunes", "Jueves"],
+        "startTime":[19,17]
+    },
+    {
+        "name":"RCo",
+        "code":"IWM32",
+        "days": ["Jueves", "Viernes"],
+        "startTime":[11,9]
+    },
+
+
+    {
+        "name":"ALP",
+        "code":"IWM31",
+        "days": ["Viernes"],
+        "startTime":[11]
+    },
+    {
+        "name":"ALP",
+        "code":"IWT31",
+        "days": ["Martes"],
+        "startTime":[15]
+    },
+    {
+        "name":"ASO",
+        "code":"TIT41",
+        "days": ["Martes", "Jueves"],
+        "startTime":[17,17]
+    },
+
+    {
+        "name":"ASO",
+        "code":"TIT41_ING",
+        "days": ["Miercoles", "Viernes"],
+        "startTime":[15,15]
+    }
+]
