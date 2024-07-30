@@ -5,6 +5,7 @@
 
 
 {
+
 [
     {
         "name":"NAME OF CLASS",
@@ -20,6 +21,7 @@
         "startTime":["TIME (FROM 9-21 in 2 hours interval"]
     }
 ]
+
 }
 
 <h4>Considerations</h4>
