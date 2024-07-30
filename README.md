@@ -4,7 +4,7 @@
 <p> The use is simple simply use a JSON with the following format: </p>
 
 
-´´´
+{
 [
     {
         "name":"NAME OF CLASS",
@@ -20,7 +20,7 @@
         "startTime":["TIME (FROM 9-21 in 2 hours interval"]
     }
 ]
-´´´
+}
 
 <h4>Considerations</h4>
 - Schedule is really linked to my mother tongue 
